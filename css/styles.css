@@ -1,0 +1,91 @@
+body {
+    background-color: black;
+}
+
+#container {
+    display: flex;
+}
+
+#box1 {
+    background-color:red;
+    height: 700px;
+    width: 200px;
+}
+
+#box2 {
+    background-color:white;
+    height: 700px;
+    width: 200px;
+}
+
+#box3 {
+    background-color: green;
+    height: 700px;
+    width: 200px;
+}
+#sign {
+    background-color: midnightblue;
+}
+
+#container {
+    background-color: blue;
+    display: flex;
+    height: 600px;
+    width: 900px;
+    margin: auto;
+    margin-top: 30px;
+    border-radius: 25px;
+}
+
+#signcon {
+    display: block;
+    height: 300px;
+    width: 400px;
+    background-color: aliceblue;
+    margin-right: 30px;
+    margin-top: 45px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    padding-top: 50px;
+    padding-bottom: 160px
+
+}
+
+label {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 15px;
+}
+
+input {
+    width: 350px;
+    height: 55px;
+    margin: 15px;
+    border: azure solid 3px;
+    border-radius: 10px;
+    padding-left: 10px;
+
+}
+
+input::placeholder {
+    padding-left: 10px;
+}
+
+#button {
+    background-color: darkblue;
+    height: 50px;
+    width: 350px;
+    color: floralwhite;
+    border: none;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+img {
+    height: 510px;
+    width: 400px;
+    margin-top: 45px;
+    margin-left: 50px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+
+}

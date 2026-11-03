@@ -1,0 +1,68 @@
+body {
+    background-color: darkorange;
+}   
+
+#subscribe {
+    background-color: whitesmoke;
+    height:500px ;
+    width: 600px;
+    margin: auto;
+    margin-top: 40px;
+    border-radius: 30px;
+}
+
+#container {
+display: flex;
+gap: 100px;
+margin: 25px;
+margin-top: 50px;
+
+}
+
+img {
+    height: 200px;
+    width: 200px;
+    margin-left: 200px;
+    margin-top: 10px
+
+}
+h1 {
+    color: orangered;
+    margin-left: 200px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h3 {
+    color: orangered;
+    margin-left: 150px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 10px;
+}
+
+input {
+    height:50px ;
+    width: 250px;
+    border:none;
+    border-radius: 15px;
+    color: black;
+    background-color: #d8d6d5;
+    /* margin-top: 50px; */
+
+}
+
+
+label {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: auto;
+}
+
+#button {
+    background-color:orangered;
+    height: 50px;
+    width:200px;
+    color:azure;
+    border: none;
+    border-radius: 15px;
+
+    
+}

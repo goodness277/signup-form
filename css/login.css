@@ -23,6 +23,7 @@ img {
     height: 470px;
     object-fit: cover;
     border-radius: 20px;
+    text-align: center;
 }
 
 #right {
